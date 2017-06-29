@@ -3,10 +3,10 @@
 
 ## Learning Goals
 - Develop a working knowledge of python.
-- Understand limitations of sentiment analysis.
+- Appy sentiment analysis, and understand its limitations.
 
 ## Problem Statement
-
+The 
 
 
 ## Market Research
