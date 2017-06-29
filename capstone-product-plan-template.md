@@ -3,7 +3,7 @@
 
 ## Learning Goals
 - Develop a working knowledge of python.
-- Goal 2
+- Understand limitations of sentiment analysis.
 
 ## Problem Statement
 
