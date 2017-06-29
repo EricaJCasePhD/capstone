@@ -7,7 +7,6 @@
 
 ## Problem Statement
 
-Description of the problem the proposed capstone project will address.
 
 
 ## Market Research
