@@ -1,11 +1,11 @@
-# Product Plan Template Document
+# #Kindred 
 
 Copy and paste this document into a gist and then edit it to create your product plan document.  This document is an example with the minimum content required for your product plan deliverable.  You are free to add further content to help you arrive at your capstone.
 
-# Product Plan - AUTHOR NAME
+# Product Plan - Erica Case
 
 ## Learning Goals
-- Goal 1
+- Develop a working knowledge of python.
 - Goal 2
 
 ## Problem Statement
